@@ -5,6 +5,8 @@
 😄 Pronouns: she/her
 
 I am a frontend developer at [TCS](https://www.tcs.com/)
+
+https://github.com/ManaliSBhavsar#-github-profile-summary-card
 <!--
 **ManaliSBhavsar/ManaliSBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
