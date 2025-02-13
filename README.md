@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Manali Bhavsar
 
 <!--
 **ManaliSBhavsar/ManaliSBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
