@@ -4,7 +4,7 @@
 
 😄 Pronouns: she/her 
 
-🎨 Frontend Developer at TCS
+🎨 Frontend Developer at [TCS](https://www.tcs.com/)
 
 💻 Passionate about building interactive & accessible web applications 
 
