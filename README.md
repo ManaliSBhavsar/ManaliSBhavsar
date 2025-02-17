@@ -1,9 +1,13 @@
 ## Hi there 👋, I am Manali Bhavsar!
 
 **🚀 About Me:**
+
 😄 Pronouns: she/her 
+
 🎨 Frontend Developer at TCS
+
 💻 Passionate about building interactive & accessible web applications 
+
 ⚡ Constantly learning and exploring new technologies to enhance my development skills
 
 **🛠️ Tech Stack:**
