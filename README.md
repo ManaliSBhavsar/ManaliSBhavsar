@@ -3,8 +3,10 @@
 **🚀 About Me:**
 
 😄 Pronouns: she/her
+
 🎨 Frontend Developer at [TCS](https://www.tcs.com/)  
 💻 Passionate about building interactive & accessible web applications
+
 ⚡ Constantly learning and exploring new technologies to enhance my development skills
 
 **🛠️ Tech Stack:**
