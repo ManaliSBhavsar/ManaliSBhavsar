@@ -7,7 +7,7 @@
 💻 Passionate about building **interactive & accessible web applications**  
 ⚡ Constantly learning and exploring **new technologies** to enhance development skills  
 
----
+
 
 <h2>🛠️ Tech Stack:</h2>
 
@@ -17,7 +17,7 @@
 - **Version Control:** Git, GitHub  
 - **Databases & OS:** MongoDB, MySQL, Windows  
 
----
+
 
 <h2 align="center">📫 Connect with Me</h2>  
 
@@ -33,6 +33,6 @@
   </a>
 </p>
 
----
+
 
 <h3 align="center">⭐️ Feel free to check out my projects and contributions!</h3>
