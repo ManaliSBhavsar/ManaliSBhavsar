@@ -1,5 +1,7 @@
-<h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
-<h2>✨ About Me:</h2>
+# <h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
+
+**✨ About Me:**
+
 😄 Pronouns: she/her 
 
 🚀 Frontend Developer at [TCS](https://www.tcs.com/)
@@ -8,21 +10,17 @@
 
 ⚡ Constantly learning and exploring new technologies to enhance my development skills
 
-<h2>🛠️ Tech Stack:</h2>
-<b>Frontend:</b> JavaScript (ES6+), TypeScript, Python
- 
-<b>Libraries & Frameworks:</b> React.js, Tailwind CSS
+**🛠️ Tech Stack:**
+- **Frontend:** JavaScript (ES6+), TypeScript, Python  
+- **Libraries & Frameworks:** React.js, Tailwind CSS
+- **Web Technologies:** HTML, CSS, RESTful APIs 
+- **Version Control:** Git, GitHub 
+- **Databases & OS:** MongoDB, MySQL, Windows 
 
-<b>Web Technologies:</b> HTML, CSS, RESTful APIs
- 
-<b>Version Control:</b> Git, GitHub 
+**📫 Connect with Me**  
+**[LinkedIn](https://www.linkedin.com/in/manalisbhavsar/) | [Email](mailto:manalisbhavsar@gmail.com) | [Portfolio](#)**
 
-<b>Databases & OS:</b> MongoDB, MySQL, Windows 
-
-<h2>📫 Connect with Me</h2> 
-<b>[LinkedIn](https://www.linkedin.com/in/manalisbhavsar/) | [Email](mailto:manalisbhavsar@gmail.com) | [Portfolio](#)</b>
-
-<h3>⭐️ Feel free to check out my projects and contributions!</h3>
+⭐️ Feel free to check out my projects and contributions!
 <!--
 **ManaliSBhavsar/ManaliSBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
