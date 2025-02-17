@@ -1,7 +1,5 @@
 # <h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
-
 # <h2>✨ About Me:</h2>
-
 😄 Pronouns: she/her 
 
 🚀 Frontend Developer at [TCS](https://www.tcs.com/)
