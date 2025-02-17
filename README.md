@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
 
-**✨ About Me:**
+<h2>✨ About Me:</h2>
 
 😄 Pronouns: she/her 
 
