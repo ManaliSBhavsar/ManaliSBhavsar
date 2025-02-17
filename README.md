@@ -9,14 +9,14 @@
 ⚡ Constantly learning and exploring new technologies to enhance my development skills
 
 <h2>🛠️ Tech Stack:</h2>
-- **Frontend:** JavaScript (ES6+), TypeScript, Python  
-- **Libraries & Frameworks:** React.js, Tailwind CSS
-- **Web Technologies:** HTML, CSS, RESTful APIs 
-- **Version Control:** Git, GitHub 
-- **Databases & OS:** MongoDB, MySQL, Windows 
+- <b>Frontend:</b> JavaScript (ES6+), TypeScript, Python  
+- <b>Libraries & Frameworks:</b> React.js, Tailwind CSS
+- <b>Web Technologies:</b> HTML, CSS, RESTful APIs 
+- <b>Version Control:</b> Git, GitHub 
+- <b>Databases & OS:</b> MongoDB, MySQL, Windows 
 
 <h2>📫 Connect with Me</h2> 
-**[LinkedIn](https://www.linkedin.com/in/manalisbhavsar/) | [Email](mailto:manalisbhavsar@gmail.com) | [Portfolio](#)**
+<b>[LinkedIn](https://www.linkedin.com/in/manalisbhavsar/) | [Email](mailto:manalisbhavsar@gmail.com) | [Portfolio](#)</b>
 
 <h3>⭐️ Feel free to check out my projects and contributions!</h3>
 <!--
