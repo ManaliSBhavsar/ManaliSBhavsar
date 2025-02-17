@@ -18,7 +18,7 @@
 - **Databases & OS:** MongoDB, MySQL, Windows 
 
 **📫 Connect with Me**  
-**[LinkedIn](https://www.linkedin.com/in/manalisbhavsar/) | [Email](mailto:manalisbhavsar@gmail.com) | [Portfolio](#)**
+**[LinkedIn](https://www.linkedin.com/in/manali-bhavsar/) | [Email](mailto:manalisbhavsar@gmail.com) | [Portfolio](#)**
 
 ⭐️ Feel free to check out my projects and contributions!
 <!--
