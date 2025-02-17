@@ -1,10 +1,10 @@
 ## Hi there 👋, I am Manali Bhavsar!
 
-**🚀 About Me:**
+**✨ About Me:**
 
 😄 Pronouns: she/her 
 
-🎨 Frontend Developer at [TCS](https://www.tcs.com/)
+🚀 Frontend Developer at [TCS](https://www.tcs.com/)
 
 💻 Passionate about building interactive & accessible web applications 
 
