@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
+<h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
 
 **✨ About Me:**
 
