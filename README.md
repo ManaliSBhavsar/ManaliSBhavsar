@@ -8,7 +8,7 @@
 
 💻 Passionate about building interactive & accessible web applications 
 
-⚡ Constantly learning and exploring new technologies to enhance my development skills
+⚡ Constantly learning and exploring new technologies to enhance development skills
 
 **🛠️ Tech Stack:**
 - **Frontend:** JavaScript (ES6+), TypeScript, Python  
