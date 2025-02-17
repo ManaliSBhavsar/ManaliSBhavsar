@@ -11,11 +11,11 @@
 ⚡ Constantly learning and exploring new technologies to enhance development skills
 
 <h2>🛠️ Tech Stack:</h2>
-- **Frontend:** JavaScript (ES6+), TypeScript, Python  
-- **Libraries & Frameworks:** React.js, Tailwind CSS
-- **Web Technologies:** HTML, CSS, RESTful APIs 
-- **Version Control:** Git, GitHub 
-- **Databases & OS:** MongoDB, MySQL, Windows 
+**Frontend:** JavaScript (ES6+), TypeScript, Python  
+**Libraries & Frameworks:** React.js, Tailwind CSS
+**Web Technologies:** HTML, CSS, RESTful APIs 
+**Version Control:** Git, GitHub 
+**Databases & OS:** MongoDB, MySQL, Windows 
 
 <h2>📫 Connect with Me</h2>  
 
