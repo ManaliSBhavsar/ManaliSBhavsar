@@ -12,7 +12,7 @@
 <h2>🛠️ Tech Stack:</h2>
 
 - **Frontend:** JavaScript (ES6+), TypeScript, Python, SQL  
-- **Libraries & Frameworks:** Tailwind CSS, React.JS, Next.JS, Redux, Context API, Zustand  
+- **Frontend Technologies:** Tailwind CSS, React.JS, Next.JS, Redux, Context API, Zustand  
 - **Web Technologies:** HTML, CSS, RESTful APIs  
 - **Version Control:** Git, GitHub  
 - **Databases & OS:** MongoDB, MySQL, Windows
