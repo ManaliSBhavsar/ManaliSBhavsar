@@ -3,7 +3,7 @@
 <h2>✨ About Me:</h2>
 
 😄 **Pronouns:** she/her  
-🚀 **Frontend Developer** at [TCS](https://www.tcs.com/)  
+🚀 **Front-End Developer** at [TCS](https://www.tcs.com/)  
 💻 Passionate about building **interactive & accessible web applications**  
 ⚡ Constantly learning and exploring **new technologies** to enhance development skills  
 
@@ -12,7 +12,7 @@
 <h2>🛠️ Tech Stack:</h2>
 
 - **Languages:** JavaScript (ES6+), TypeScript, Python, SQL  
-- **Frontend Technologies:** Tailwind CSS, React.JS, Next.JS, Redux, Context API, Zustand  
+- **Front-End Technologies:** Tailwind CSS, React.JS, Next.JS, Redux, Context API, Zustand  
 - **Web Technologies:** HTML, CSS, RESTful APIs  
 - **Version Control:** Git, GitHub  
 - **Databases & OS:** MongoDB, MySQL, Windows
