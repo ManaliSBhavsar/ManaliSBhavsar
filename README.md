@@ -29,7 +29,7 @@
   <a href="mailto:manalisbhavsar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://manalibhavsar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
