@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 
 
-<h2 align="center" style="display:flex;justify-content:center">📫 Let's Connect!</h2>
+<h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/manali-bhavsar" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white&color=2D5F90" alt="LinkedIn">
