@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, I am Manali Bhavsar! </h1>
 
 <h2>✨ About Me:</h2>
-
-😄 **Pronouns:** she/her  
-🚀 **Front-End Developer** at [TCS](https://www.tcs.com/)  
-💻 Passionate about building **interactive & accessible web applications**  
-⚡ Constantly learning and exploring **new technologies** to enhance development skills  
+  
+💻 **Front-End Developer** at [TCS](https://www.tcs.com/)  
+🚀 Passionate about building **interactive & accessible web applications**  
+⚡ Constantly learning and exploring **new technologies** to enhance my development skills  
+📌 Currently working with React.js, Next.js, Tailwind CSS
    
 
 <h2>🛠️ Tech Stack</h2>  
