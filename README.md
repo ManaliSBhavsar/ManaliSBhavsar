@@ -34,9 +34,15 @@
 
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/manali-bhavsar" target="_blank">🔗 LinkedIn</a> |
-  <a href="mailto:manalisbhavsar@gmail.com">📧 Email</a> |
-  <a href="https://manalibhavsar.vercel.app/" target="_blank">🌐 Portfolio</a>
+  <a href="https://www.linkedin.com/in/manali-bhavsar" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=flat&logoColor=white&color=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="mailto:manalisbhavsar@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=flat&logoColor=white&color=D14836" alt="Email">
+  </a>
+  <a href="https://manalibhavsar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-333333?style=flat&logoColor=white&color=333333" alt="Portfolio">
+  </a>
 </p>
 
 
