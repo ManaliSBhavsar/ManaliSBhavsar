@@ -35,13 +35,13 @@
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/manali-bhavsar" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-%230A66C2.svg?&style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:manalisbhavsar@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836.svg?&style=for-the-badge&logoColor=white" alt="Email">
   </a>
   <a href="https://manalibhavsar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000.svg?&style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
