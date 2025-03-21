@@ -8,7 +8,8 @@
 ⚡ Constantly learning and exploring **new technologies** to enhance development skills  
    
 
-## 🛠️ Tech Stack
+
+## 🛠️ Tech Stack  
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -22,7 +23,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
 **Performance & APIs:**  
-![Performance Tuning](https://img.shields.io/badge/-Performance%20Tuning-orange?style=flat)  
+![Performance](https://img.shields.io/badge/-Performance%20Tuning-orange?style=flat)  
 ![Accessibility](https://img.shields.io/badge/-Accessibility-blue?style=flat)  
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat)  
 
@@ -31,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  
 
-**Testing & Debugging:**  
+**Testing:**  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)  
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)  
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)  
@@ -42,7 +43,8 @@
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)   
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
 
 
 
