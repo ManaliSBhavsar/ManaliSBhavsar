@@ -5,7 +5,7 @@
 💻 **Front-End Developer** at [TCS](https://www.tcs.com/)  
 🚀 Passionate about building **interactive & accessible web applications**  
 ⚡ Constantly learning and exploring **new technologies** to enhance my development skills  
-📌 Currently working with React.js, Next.js, Tailwind CSS
+📌 Currently working with **React.js, Next.js, Tailwind CSS**
    
 
 <h2>🛠️ Tech Stack</h2>  
