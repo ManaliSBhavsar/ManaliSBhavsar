@@ -16,8 +16,8 @@
 <strong>Frontend:</strong>  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"> <img src="https://img.shields.io/badge/Zustand-8C8C8C?style=flat" alt="Zustand"> <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 
-<strong>Performance & APIs:</strong>  
-<img src="https://img.shields.io/badge/Performance Tuning-orange?style=flat" alt="Performance Tuning"> <img src="https://img.shields.io/badge/Accessibility-blue?style=flat" alt="Accessibility"> <img src="https://img.shields.io/badge/RESTful APIs-005571?style=flat" alt="RESTful APIs">
+<strong>Performance & Optimization:</strong>  
+<img src="https://img.shields.io/badge/Performance Tuning-orange?style=flat" alt="Performance Tuning"> <img src="https://img.shields.io/badge/Accessibility-blue?style=flat" alt="Accessibility"> <img src="https://img.shields.io/badge/RESTful APIs-005571?style=flat" alt="API Integration">
 
 <strong>Version Control & Build Tools:</strong>  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
