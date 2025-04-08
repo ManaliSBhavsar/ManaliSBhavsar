@@ -49,7 +49,7 @@
 <h3 align="center">⭐️  I'm always open to collaboration on frontend projects, exciting ideas, or learning opportunities.<br>Feel free to connect or check out my projects!</h3>
 
 <p align="center">
-![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaliSBhavsar&layout=compact&theme=tokyonight" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaliSBhavsar&layout=compact&theme=tokyonight" width="500" />
 
 [![Manali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManaliSBhavsar&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 </p>
