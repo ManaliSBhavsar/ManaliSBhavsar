@@ -50,5 +50,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManaliSBhavsar&layout=compact&theme=tokyonight)
 
-[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ManaliSBhavsar&theme=react-dark)]
+[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManaliSBhavsar&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
