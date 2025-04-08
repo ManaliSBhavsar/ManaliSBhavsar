@@ -48,8 +48,8 @@
 
 <h3 align="center">⭐️  I'm always open to collaboration on frontend projects, exciting ideas, or learning opportunities.<br>Feel free to connect or check out my projects!</h3>
 
-![Manali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Manali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManaliSBhavsar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManaliSBhavsar&layout=compact&theme=tokyonight)
 
-[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ManaliSBhavsar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
