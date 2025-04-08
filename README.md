@@ -16,7 +16,7 @@
 <strong>Frontend:</strong>  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">  <img src="https://img.shields.io/badge/Zustand-8C8C8C?style=flat" alt="Zustand">  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 
-<strong>Python Libraries</strong>
+<strong>Python Libraries:</strong>  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"> 
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=flat&logo=python&logoColor=white" alt="Tkinter">  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib">
 
