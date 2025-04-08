@@ -46,4 +46,4 @@
 </p>
 
 
-<h3 align="center">⭐️ Feel free to check out my projects and contributions!</h3>
+<h3 align="center">⭐️  I'm always open to collaboration on frontend projects, exciting ideas, or learning opportunities. Feel free to connect or check out my projects!</h3>
