@@ -54,7 +54,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaliSBhavsar&layout=compact&theme=tokyonight" width="500" />
-
-[![Manali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManaliSBhavsar&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 </p>
 
